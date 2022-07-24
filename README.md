@@ -1,3 +1,5 @@
+origin: https://github.com/mono/xunit-binaries
+
 # xunit-binaries
 
 Extracted xUnit nuget packages targetting netstandard 1.x
